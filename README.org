@@ -2,7 +2,7 @@
 #+AUTHOR: Chef
 #+DATE: <2025-02-17 Mon>
 
-* TABLE OF CONTENTS :toc:
+* Table of Contents :toc:
 - [[#whats-cookin][What's cookin'?]]
   - [[#1-fortune-cookie-for-your-terminal][1. Fortune cookie for your terminal]]
   - [[#2-soyfetch---a-simple-fetch-script][2. Soyfetch - a simple fetch script]]
@@ -10,7 +10,7 @@
 - [[#how-to-run-them][How to run them]]
 
 * What's cookin'?
-This repo serves two simple scripts to make your terminal less boring
+This repo serves two simple scripts to make your terminal less boring. Made by Chef(chefxor).
  
 ** 1. Fortune cookie for your terminal
 Every time you open your terminal, BAM! a random quote pops up. Motivation? Wisdom? Just nonsense? Who knows!
@@ -25,10 +25,10 @@ Nothing fancy. Shows:
 - CPU & Memory Usage
 
 * Ingredients needed
-#+begin_src bash
+#+begin_src
 lolcat
 figlet
-bash (or zsh)
+shell (bash, zsh or fish)
 #+end_src
 
 * How to run them
