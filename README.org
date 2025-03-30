@@ -7,7 +7,7 @@
   - [[#1-fortune-cookie-for-your-terminal][1. Fortune cookie for your terminal]]
   - [[#2-soyfetch---a-simple-fetch-script][2. Soyfetch - a simple fetch script]]
 - [[#ingredients-needed][Ingredients needed]]
-- [[#how-to-run-them][How to run them]]
+- [[#how-to-run-the-scripts][How to run the scripts]]
 
 * What's cookin'?
 This repo serves two simple scripts to make your terminal less boring. Made by Chef(chefxor).
@@ -31,10 +31,10 @@ figlet
 shell (bash, zsh or fish)
 #+end_src
 
-* How to run them
+* How to run the scripts
 1. Clone this repo.
 2. Add them to your preferred shell as suggested below
-3. Now everytime you open the shell, =fortune_cookie.sh= should run. Use the alias anytime to show the system info using soyfetch
+3. Now everytime you open the shell, =fortune_cookie.sh= should run automaticallly. Use any alias for =soyfetch.sh= to display basic system info.
 
 #+begin_src bash
 # add it to your .bashrc or .zshrc. This will autospawn it everytime you open the shell
