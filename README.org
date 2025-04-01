@@ -1,6 +1,7 @@
 #+TITLE: termsauce
 #+AUTHOR: Chef
 #+DATE: <2025-02-17 Mon>
+#+DESCRIPTION: 
 
 * Table of Contents :toc:
 - [[#whats-cookin][What's cookin'?]]
@@ -38,8 +39,8 @@ shell (bash, zsh or fish)
 
 #+begin_src bash
 # add it to your .bashrc or .zshrc. This will autospawn it everytime you open the shell
-$HOME/termsauce/forture_cookie.sh
+$HOME/termsauce/scripts/forture_cookie.sh
 
 # add this as an alias in your .bashrc or .zshrc to call the ff 
-alias soyfetch='$HOME/termsauce/soyfetch.sh'
+alias soyfetch='$HOME/termsauce/scripts/soyfetch.sh'
 #+end_src
